@@ -44,4 +44,4 @@ Surge: for better surgeries. This is our university software engineering project
    - `source install/setup.bash`
 
 10. Run the Robot
-   - `ros2 launch my_robot_bringup bringup.launch.py`
+   - `ros2 launch surge_bringup bringup.launch.py`
