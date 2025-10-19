@@ -1,2 +1,2 @@
 # Surge_G13
-Surge: for better surgeries. This is our university software engineering project that attempts to change the medical landscape around the world.
+Surge: for better surgeries. This is our university software engineering project that attempts to change the medical landscape around the world. The aim is to assist doctors during meticuluous operations for more efficient control and vision, this will be done by using a secure software combined with trained surgeons. This project will bridge the gap between modern technology and accessibility to all hospitals by being compact, affortable, and mobile. The assets of this tool are that it can perform surgeries faster by enhancing control and ensuring cleaner operations.
